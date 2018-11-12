@@ -12,4 +12,4 @@ We will compare different machine learning models in order to evaluate which one
 We will read and clean the data in order for our models to be efficient and successful.
 
 ____
-The code was made possible by [Manav Sehgal](https://www.kaggle.com/startupsci/titanic-data-science-solutions/data). 
+The code was made possible with the help of [Manav Sehgal](https://www.kaggle.com/startupsci/titanic-data-science-solutions/data). 
